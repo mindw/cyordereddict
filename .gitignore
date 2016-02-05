@@ -6,3 +6,6 @@ MANIFEST
 *.pyc
 *.so
 _version.py
+
+.tox/
+*.pyd
